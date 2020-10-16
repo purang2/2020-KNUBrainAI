@@ -6,3 +6,6 @@
 각종 실습용 페이지입니다
 
 목표는 PYTHON으로 BERT , KOGPT2, KORQUAD 구현해보기!
+
+
+by 은찬LEE Kyungpook National University 
