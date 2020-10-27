@@ -1,10 +1,12 @@
 ## Brain-AI Lab
 
+<img src="james.jpg" width="50%" height="50%">
+https://knu-brainai.github.io/team/
 소속: 경북대학교 IT대학 전자공학부
 
 담당 교수님: 전자공학부 안상태 교수님 
 
-연구 분야: 뇌인공지능 , 딥러닝 , 머신러닝, 자연어처리
+연구 분야: 뇌인공지능, 딥러닝, 머신러닝, 자연어처리
 
 ## 연구 목표
 
