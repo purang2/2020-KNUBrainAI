@@ -1,6 +1,6 @@
 ## Brain-AI Lab
 
-<img src="james.jpg" width="50%" height="50%">
+<img src="Team_member.jpg" width="50%" height="50%">
 https://knu-brainai.github.io/team/
 
 소속: 경북대학교 IT대학 전자공학부
