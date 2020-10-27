@@ -2,6 +2,7 @@
 
 <img src="james.jpg" width="50%" height="50%">
 https://knu-brainai.github.io/team/
+
 소속: 경북대학교 IT대학 전자공학부
 
 담당 교수님: 전자공학부 안상태 교수님 
