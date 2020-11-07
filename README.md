@@ -1,13 +1,19 @@
 ## 챗봇 프로젝트 : 경북대학교 Brain AI Lab
 
-<img src="Team_member.jpg">
-https://knu-brainai.github.io/team/
+- 딥러닝의 떠오르는 화두인 자연어 처리(NLP, Natural Language Processing) 영역의 딥러닝 모델들을 연구하고 학습하여 최신 모델을 오픈소스로 가져오고 Fine-Tuning을 통해서 챗봇을 개발하고 있음
+
+- GISTxLG전자 주관의 꿈꾸는 AI 대회에 예선 참가하여 챗봇 모델을 개발하고 있음 [https://dreamai.kr/fair] 
 
 소속: 경북대학교 IT대학 전자공학부
 
 담당 교수님: 전자공학부 안상태 교수님 
 
-연구 분야: 뇌인공지능, 딥러닝, 머신러닝, 자연어처리
+연구 분야: 뇌인공지능, 딥러닝, 머신러닝, 자연어처리(NLP)
+
+
+<img src="Team_member.jpg" width="70%" height="70%">
+https://knu-brainai.github.io/team/
+
 
 ## 연구 목표
 
