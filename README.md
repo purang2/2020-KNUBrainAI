@@ -1,5 +1,10 @@
 # 챗봇 프로젝트 : 경북대학교 Brain AI Lab
 
+
+---
+
+## 개요
+
 **소속/담당 교수님: 경북대학교 IT대학 전자공학부 뇌 인공지능 연구실/ 안상태 교수님**
 
 **연구 분야: 뇌인공지능, 딥러닝, 머신러닝, 자연어처리(NLP)**
@@ -16,6 +21,7 @@
 <img src="Team_member.jpg" width="70%" height="70%">
 https://knu-brainai.github.io/team/
 
+---
 
 ## 연구 목표
 
