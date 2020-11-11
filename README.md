@@ -10,7 +10,7 @@
 **연구 분야: 뇌인공지능, 딥러닝, 머신러닝, 자연어처리(NLP)**
 
 
-- 뇌 인공지능 연구실에서 학부연수생 활동을 하면서 학부연수생끼리 팀을 꾸림
+- [경북대학교 뇌 인공지능 연구실](https://knu-brainai.github.io/)에서 학부연수생 활동을 하면서 학부연수생끼리 팀을 꾸림
 
 - 딥러닝의 떠오르는 화두인 자연어 처리(NLP, Natural Language Processing) 영역의 딥러닝 모델들을 연구하고 학습하여 최신 모델을 오픈소스로 가져오고 Fine-Tuning을 통해서 챗봇을 개발하고 있음
 
@@ -19,7 +19,6 @@
 
 
 <img src="Team_member.jpg" width="70%" height="70%">
-https://knu-brainai.github.io/team/
 
 ---
 
