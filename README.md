@@ -14,7 +14,7 @@
 
 - 딥러닝의 떠오르는 화두인 자연어 처리(NLP, Natural Language Processing) 영역의 딥러닝 모델들을 연구하고 학습하여 최신 모델을 오픈소스로 가져오고 Fine-Tuning을 통해서 챗봇을 개발하고 있음
 
-- GISTxLG전자 주관의 꿈꾸는 AI 대회에 예선 참가하여 챗봇 모델을 개발하고 있음 [https://dreamai.kr/fair]
+- [GISTxLG전자 주관 DREAM AI 대회](https://dreamai.kr/fair)에 예선 참가하여 챗봇 모델을 개발하고 있음 **[팀 '크누아이'/전자공학부 이은찬,박영훈,권현지']** 
 
 
 
